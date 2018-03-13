@@ -1,0 +1,2 @@
+include ':hu-service', ':hu-core', ':tw-util'
+include ':test-app'
